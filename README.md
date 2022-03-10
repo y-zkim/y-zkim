@@ -26,7 +26,7 @@
 </p>
 <p align="center">
    <a href="https://badges.pufler.dev/visits/youssef-zkim/youssef-zkim">
-    <img src="https://badges.pufler.dev/visits/soulaymanegouijane/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
+    <img src="https://badges.pufler.dev/visits/y-zkim/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
   </a>
   <a href="https://badges.pufler.dev/years/y-zkim">
     <img src="https://badges.pufler.dev/years/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Years">
