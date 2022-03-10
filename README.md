@@ -1,12 +1,11 @@
 ## Hi Visitor !! 👋
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/18433822/youssef-zkim" target="_blank">
-      
-      <img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-E34F26?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-<!--
-      <img alt="stackoverflow" "src=https://commons.wikimedia.org/wiki/File:Stack_Overflow_logo.svg">
+  <a href="https://stackoverflow.com/users/18433822/youssef-zkim" target="_blank">  
+      <!--<img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-E34F26?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 -->
+      <img alt="stackoverflow" "https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" />
+
     </a> 
     <a href="https://twitter.com/zkim1998" target="_blank">
       <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
