@@ -28,10 +28,10 @@
    <a href="https://badges.pufler.dev/visits/youssef-zkim/youssef-zkim">
     <img src="https://badges.pufler.dev/visits/soulaymanegouijane/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
   </a>
-  <a href="https://badges.pufler.dev/years/soulaymanegouijane">
-    <img src="https://badges.pufler.dev/years/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Years">
+  <a href="https://badges.pufler.dev/years/y-zkim">
+    <img src="https://badges.pufler.dev/years/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Years">
   </a>
-  <a href="https://badges.pufler.dev/repos/soulaymanegouijane"> 
-    <img src="https://badges.pufler.dev/repos/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Repos">
+  <a href="https://badges.pufler.dev/repos/y-zkim"> 
+    <img src="https://badges.pufler.dev/repos/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Repos">
   </a>
 </p>
