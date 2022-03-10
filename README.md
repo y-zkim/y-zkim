@@ -25,9 +25,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <p align="center">
-   <!--<a href="https://badges.pufler.dev/visits/youssef-zkim/youssef-zkim">
-    <img src="https://badges.pufler.dev/visits/y-zkim/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
-  </a>-->
+   <a href="https://https://github.com/y-zkim/y-zkim">
+    <img src="https://badges.pufler.dev/visits/soulaymanegouijane/soulaymanegouijane?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
+  </a>
   <a href="https://badges.pufler.dev/years/y-zkim">
     <img src="https://badges.pufler.dev/years/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Years">
   </a>
