@@ -31,8 +31,8 @@
   <a href="https://badges.pufler.dev/years/y-zkim">
     <img src="https://badges.pufler.dev/years/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Years">
   </a>
-  <a href="https://badges.pufler.dev/repos/y-zkim">
-    <img src="https://badges.pufler.dev/repos/y-zkim">
+  <a href="https://github.com/y-zkim?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/y-zkim?style=flat-square&color=blue">
     <!--<img src="https://badges.pufler.dev/repos/y-zkim?style=flat-square&color=blue&logo=github?1" alt="Repos">-->
   </a>
 </p>
